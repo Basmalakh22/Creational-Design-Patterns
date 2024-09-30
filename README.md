@@ -23,3 +23,9 @@
 
 - Ensures that a class has only one instance and provides a global point of access to it.
 - Useful when exactly one object is needed to coordinate actions across the system.
+
+---
+
+## Prototype
+
+- Allows cloning of objects to create new instances without the need for new instantiation.

@@ -34,3 +34,15 @@
 ## Builder
 
 - Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+
+---
+
+## Factory Method
+
+- Defines an interface for creating an object but lets subclasses alter the type of objects that will be created.
+
+---
+
+## Abstract Factory
+
+- Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
